@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.214f5fd5.css",
+    "main.js": "/static/js/main.db958359.js",
+    "static/media/mmm.jpg": "/static/media/mmm.0bddef95f14517e28502.jpg",
+    "static/media/modern.jpg": "/static/media/modern.1e3a2d606024f473d8cf.jpg",
+    "static/media/png": "/static/media/c8939b37718d2b9847c617d5f1078771.4dc3218a2f70309f4007.png",
+    "static/media/user-5.jpg": "/static/media/user-5.4722b4aca878315bca63.jpg",
+    "static/media/user-3.jpg": "/static/media/user-3.683e36723751a3fafb24.jpg",
+    "static/media/user-4.jpg": "/static/media/user-4.3aa75a07397dc0a953bc.jpg",
+    "static/media/bgt-min.jpg": "/static/media/bgt-min.72b5bd340a614c144a11.jpg",
+    "static/media/MeetingTable.png": "/static/media/MeetingTable.d8e702362399ee50eb21.png",
+    "static/media/slide.jpg": "/static/media/slide.09422faebbfddab471b3.jpg",
+    "static/media/jpg": "/static/media/e5d66100b7a43d9a32e8cee100ca41b8.3908b65c9e352478501c.jpg",
+    "static/media/bella-2191524_640.jpg": "/static/media/bella-2191524_640.a204e2d412bc46e1ea69.jpg",
+    "static/media/landing-rev-2.jpg": "/static/media/landing-rev-2.b511c80c47acb5d372fc.jpg",
+    "static/media/home1-3.jpg": "/static/media/home1-3.5bb0984219a49c6c1942.jpg",
+    "static/media/home1-1.jpg": "/static/media/home1-1.055ab10bccb87e9182c8.jpg",
+    "static/media/home1-2.jpg": "/static/media/home1-2.33d2552dedfb5b0b81a9.jpg",
+    "static/media/ (1).jpg": "/static/media/f928d9a2b7f373e4009094353868990f (1).10939b7d06953e7c7b29.jpg",
+    "static/media/payment-method-svgrepo-com.png": "/static/media/payment-method-svgrepo-com.dab792d2d4e050edb96d.png",
+    "static/media/free-delivery-free-svgrepo-com.png": "/static/media/free-delivery-free-svgrepo-com.93e582eb8803c38b79a1.png",
+    "static/media/headphones-svgrepo-com.png": "/static/media/headphones-svgrepo-com.c35b378ba4d0bc2589c2.png",
+    "index.html": "/index.html",
+    "main.214f5fd5.css.map": "/static/css/main.214f5fd5.css.map",
+    "main.db958359.js.map": "/static/js/main.db958359.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.214f5fd5.css",
+    "static/js/main.db958359.js"
+  ]
+}
